@@ -32,6 +32,7 @@ cout << "Please enter your first name: ";
 			}
 
 		}
+		print("hola mundo");
 
 		cout << endl;
 	}
